@@ -27,3 +27,14 @@ dt strong {
 }
 
 #info {color: cadetblue;}
+#info p{font-style: italic;}
+.price{font-style: italic;
+color: grey;
+}
+.label{font-variant: small-caps;
+font-style: normal;
+}
+p.warning, sup{
+    font-size:small;
+color: tomato;
+}
