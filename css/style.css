@@ -1,0 +1,29 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font: 400 2.5rem "Julius Sans One", Verdana, sans-serif;
+    color: rgb(170, 221, 215);
+}
+
+p{
+    color: rgb(170,221,215);
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dt strong {
+    font-style: italic;
+    color: tomato;
+}
